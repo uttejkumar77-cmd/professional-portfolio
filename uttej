@@ -276,11 +276,3 @@
 </body>
 </html>
 ```
-
-To use this as your portfolio website:
-1. Copy the entire code above into a new file named `index.html`.
-2. Open the file in any web browser to view it locally.
-3. For hosting, upload it to a free platform like GitHub Pages, Netlify, or Vercel. Create a repository on GitHub, add this file, and enable Pages in settings.
-4. Customize placeholders like your name, add a real profile image URL if desired, or adjust proficiency scores.
-5. The site is responsive (works on mobile/desktop), features smooth animations, an interactive radar chart for skills, and a functional contact form (demo mode; add backend like Formspree for real emails).
-6. It uses modern web technologies: Bootstrap for layout, Chart.js for data viz, Intersection Observer for lazy animations, and CSS gradients/transitions for visual appeal.
